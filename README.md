@@ -1,6 +1,10 @@
 > Sample project to demonstrate Dojo with TypeScript using typings from
 > https://github.com/borisyankov/DefinitelyTyped/tree/master/dojo
 
+## Warning
+
+This sample is significantly out of date.  The current typings are being updated and this will be updated afterwards.
+
 ## Comments
 
 This is just a sample to show how to setup a project using Dojo and TypeScript.  Common things, such as header
